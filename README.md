@@ -34,3 +34,30 @@ Item Model Fix(Transparent lines fix): [Item Model Fix](https://www.curseforge.c
 Connected Textures(Optifine CTM): [ConnectedTextures](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
 
 LambDynamicLights(Optifine Dynamic Lighting): [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+
+BetterGrass(Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
+
+No Potion Offset: [NoPotionOffset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset)
+
+Zoom Mod(Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
+
+Optimized World Generation: [OverWorld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
+
+DiscordRP(Rich Presence): [Craftprecense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+
+NoFog(Off Fog Optifine): [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) / Recommended with [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+
+
+Enjoy these epic mods :)
+If you see a problem/typo, submit an issue or dm me via discord @ karmayayaiiot#0712
+Heres some extra mods you might want
+
+[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost): If you get stuck in a ghost block, you can press a keybind to request a resend for the blocks around you.
+
+[NotEnoughCrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes): A system for making crashing not as painful, also useful when testing mods
+
+[Slight Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications): A smoother Minecraft UI experience
+
+[Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) / [Splash](https://www.curseforge.com/minecraft/mc-mods/splash): Allows you yo customize the Minecraft loading screen.
+
+[Seamless Screen Loading](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen): A cool thing for when you join a world
