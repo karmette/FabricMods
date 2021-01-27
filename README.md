@@ -37,6 +37,8 @@ LambDynamicLights(Optifine Dynamic Lighting): [LambDynamicLights](https://www.cu
 
 BetterGrass(Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
 
+AuthMe: [AuthMe](https://www.curseforge.com/minecraft/mc-mods/auth-me)
+
 Custom Crosshair Mod: [Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
 
 Blured Background GUI: [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
