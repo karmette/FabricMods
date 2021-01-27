@@ -37,6 +37,10 @@ LambDynamicLights(Optifine Dynamic Lighting): [LambDynamicLights](https://www.cu
 
 BetterGrass(Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
 
+Custom Crosshair Mod: [Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
+
+Blured Background GUI: [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
+
 No Potion Offset: [NoPotionOffset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset)
 
 Zoom Mod(Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
@@ -61,3 +65,6 @@ Heres some extra mods you might want
 [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) / [Splash](https://www.curseforge.com/minecraft/mc-mods/splash): Allows you yo customize the Minecraft loading screen.
 
 [Seamless Screen Loading](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen): A cool thing for when you join a world
+
+[Mobs main menu](https://www.curseforge.com/minecraft/mc-mods/mobs-main-menu)
+
