@@ -47,6 +47,10 @@ Zoom Mod(Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mod
 
 Optimized World Generation: [OverWorld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 
+Numbered Ping: [Numberic Ping](https://www.curseforge.com/minecraft/mc-mods/numericping)
+
+Controlling(better keybinding): [Controlling for Fabric](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)
+
 DiscordRP(Rich Presence): [Craftprecense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 
 NoFog(Off Fog Optifine): [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) / Recommended with [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
@@ -67,4 +71,6 @@ Heres some extra mods you might want
 [Seamless Screen Loading](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen): A cool thing for when you join a world
 
 [Mobs main menu](https://www.curseforge.com/minecraft/mc-mods/mobs-main-menu)
+
+[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric)
 
