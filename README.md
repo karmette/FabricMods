@@ -21,9 +21,9 @@ Mod Button: [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) and
 
 CleanView(Removes potion particles from yourself): [Cleanview](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)
 
-Borderless Fullscreen: [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
+Borderless Window: [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 
-Cosmetics(Will show MinecraftCapes, Labymod, and Optfine Capes): [Anycapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) (You can add other cape API's if you have them) \ [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
+Cosmetics(Will show MinecraftCapes, Labymod, and Optfine Capes): [Anycapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) (You can add other cape API's if you have them) / [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
 
 Fullbright: [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)
 
