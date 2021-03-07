@@ -5,11 +5,11 @@ NOTE: If a mod has a dependency, make sure to get it.
 
 # Mods
 
-Fabric API(Most of these Mods require it): [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+Fabric API (Most of these Mods require it): [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
-Performance Improvements(All of the following recommended): [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) / [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) / [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) / [Hydrogen (BETA)](https://github.com/jellysquid3/hydrogen-fabric/releases)
+Performance Improvements (All of the following recommended): [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) / [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) / [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) / [Hydrogen (BETA)](https://github.com/jellysquid3/hydrogen-fabric/releases)
 
-Info Hud(FPS, Coords, etc.): [MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud) / [CustomHud](https://www.curseforge.com/minecraft/mc-mods/customhud)
+Info Hud (FPS, Coords, etc.): [MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud) / [CustomHud](https://www.curseforge.com/minecraft/mc-mods/customhud)
 
 Potion Hud: [InventoryHud](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) / [Status Effects+](https://www.curseforge.com/minecraft/mc-mods/huddons-status-effects)
 
@@ -19,15 +19,15 @@ Perspective Mod: [Perspective Mod Redux](https://www.curseforge.com/minecraft/mc
 
 Mod Button: [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) and [Better Mod Button](https://www.curseforge.com/minecraft/mc-mods/better-mod-button) (recommended)
 
-CleanView(Removes potion particles from yourself): [Cleanview](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)
+CleanView (Removes potion particles from yourself): [Cleanview](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)
 
 Borderless Window: [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)
 
-Cosmetics(Will show MinecraftCapes, Labymod, and Optfine Capes): [Anycapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) (You can add other cape API's if you have them) / [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
+Cosmetics (Will show MinecraftCapes, Labymod, and Optfine Capes): [Anycapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) (You can add other cape API's if you have them) / [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
 
 Fullbright: [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)
 
-Cull Leaves(Optifine Smart leaves): [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+Cull Leaves (Optifine Smart leaves): [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 
 Item Model Fix(Transparent lines fix): [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 
@@ -35,7 +35,7 @@ Connected Textures(Optifine CTM): [ConnectedTextures](https://www.curseforge.com
 
 LambDynamicLights(Optifine Dynamic Lighting): [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 
-BetterGrass(Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
+BetterGrass (Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
 
 AuthMe: [AuthMe](https://www.curseforge.com/minecraft/mc-mods/auth-me)
 
@@ -45,17 +45,17 @@ Blured Background GUI: [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-
 
 No Potion Offset: [NoPotionOffset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset)
 
-Zoom Mod(Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
+Zoom Mod (Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 
 Optimized World Generation: [OverWorld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 
 Numbered Ping: [Numberic Ping](https://www.curseforge.com/minecraft/mc-mods/numericping)
 
-Controlling(better keybinding): [Controlling for Fabric](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)
+Controlling (better keybinding): [Controlling for Fabric](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)
 
-DiscordRP(Rich Presence): [Craftprecense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+DiscordRP (Rich Presence): [Craftprecense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 
-NoFog(Off Fog Optifine): [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) / Recommended with [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+NoFog (Off Fog Optifine): [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) / Recommended with [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
 
 
 Enjoy these epic mods :)
