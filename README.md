@@ -31,8 +31,9 @@ Custom Crosshair Mod: [Custom Crosshair](https://www.curseforge.com/minecraft/mc
 
 Zoom Mod (Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 
-**Optifine replacements: **
-(Heres a explained list on optifine features in fabric: [Optifine Alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754))
+**Optifine replacements:**
+
+(Heres a more explained list on optifine features in fabric: [Optifine Alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754))
 
 Cull Leaves (Optifine Smart leaves): [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 
@@ -44,7 +45,7 @@ BetterGrass (Optifine Better Grass): [LambdaBetterGrass](https://www.curseforge.
 
 NoFog (Off Fog Optifine): [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog) / Recommended with [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
 
-**Misc mods**
+**Misc mods:**
 
 Perspective Mod: [Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux)
 
