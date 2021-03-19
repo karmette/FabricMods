@@ -67,7 +67,7 @@ Numberic Ping: [Numberic Ping](https://www.curseforge.com/minecraft/mc-mods/nume
 
 Controlling (better keybinding): [Controlling for Fabric](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric)
 
-DiscordRP (Discord Rich Presence): [Craftprecense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+DiscordRP (Discord Rich Presence): [Craftpresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 
 Fixed Damage Tilt (Fixes a bug in Minecraft where your camerma hit tilt would only go in one direction): [DamageTilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
 
