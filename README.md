@@ -15,7 +15,9 @@ Borderless Window: [Borderless Mining](https://www.curseforge.com/minecraft/mc-m
 
 Fullbright: [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness)
 
-Dynamic FPS(Reduces Minecraft background usage): [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+Dynamic FPS (Reduces Minecraft background usage): [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+
+Entity Culling (Rendering optimizations): [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 
 # Hud mods:
 
@@ -90,6 +92,8 @@ DiscordRP (Discord Rich Presence): [Craftpresence](https://www.curseforge.com/mi
 [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric): Makes Minecraft In-menu scrolling smooth!
 
 [OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric): Lets you save an offline skin that will work when you're offline or playing on an offline server.
+
+Better Biome Blend (incompatible with Sodium): [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 
 Enjoy these epic mods :)
 If you see a problem/typo, submit an issue.
