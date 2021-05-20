@@ -63,6 +63,8 @@ No Screen Bobbing (Removes screenbobbing but keeps the hand moving): [NoScreenBo
 
 [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) / [Splash](https://www.curseforge.com/minecraft/mc-mods/splash): Allows you to customize the Minecraft loading screen.
 
+No Strip (Prevents stripping logs and grass):[No Strip](https://www.curseforge.com/minecraft/mc-mods/no-strip)
+
 # Misc mods:
 
 Perspective Mod: [Perspective Mod Redux](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux)
