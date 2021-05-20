@@ -29,9 +29,9 @@ Armor Hud: [InventoryHud](https://www.curseforge.com/minecraft/mc-mods/inventory
 
 Custom Crosshair Mod: [Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
 
-Zoom Mod (Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
-
 # Optifine replacements:
+
+Zoom Mod (Optifine Zoom): [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 
 (Heres a more explained list on optifine features in fabric: [Optifine Alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754))
 
@@ -83,17 +83,17 @@ Controlling (better keybinding): [Controlling for Fabric](https://www.curseforge
 
 DiscordRP (Discord Rich Presence): [Craftpresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 
-[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost): If you get stuck in a ghost block, you can press a keybind to request a resend for the blocks around you.
+No Ghost Blocks (Lets you send a request for blocks around you): [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost): 
 
-[NotEnoughCrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes): A system for making crashing not as painful, also useful when testing mods
+NEC (A mod for making crashing not as painful with debugging features, also useful for developers): [NotEnoughCrashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes): 
 
-!!May have Sodium Incompatability!![Seamless Screen Loading](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen): Takes a screenshot of a world when you leave, then shows it when you join that world again while you connect to the world.
+**!May have Sodium Incompatibility!** [Seamless Screen Loading](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen): Takes a screenshot of a world when you leave, then shows it when you join that world again while you connect to the world.
 
-[Mobs main menu](https://www.curseforge.com/minecraft/mc-mods/mobs-main-menu): Adds mobs to the main menu in minecraft
+Mobs main menu (Adds mobs to the main menu in minecraft): [Mobs main menu](https://www.curseforge.com/minecraft/mc-mods/mobs-main-menu):
 
-[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric): Makes Minecraft In-menu scrolling smooth!
+Smooth Scroll (Makes Minecraft In-menu scrolling smooth): [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric): 
 
-[OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric): Lets you save an offline skin that will work when you're offline or playing on an offline server.
+Offline Skins (Lets you save a cached skin that will work when you're offline or playing on an offline server. Client Sided!):[OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric): 
 
 Better Biome Blend (incompatible with Sodium): [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 
